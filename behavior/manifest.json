@@ -1,0 +1,18 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "タッチ操作でかんたんF5 BP",
+    "description": "F5キーをスマホで押せる！\ncamera コマンドの実験を有効化する必要があります。\nby YukaYama0311",
+    "version": [ 1, 0, 0 ],
+    "uuid": "382873a1-13bc-4a96-ab8f-6f73bee481d8",
+    "min_engine_version": [ 1, 13, 0 ]
+  },
+  "modules": [
+    {
+      "type": "data",
+      "description": "",
+      "version": [ 1, 0, 0 ],
+      "uuid": "62ac79fe-1591-4690-8dfd-b2701e549783"
+    }
+  ]
+}

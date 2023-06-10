@@ -1,0 +1,17 @@
+{
+  "resource_pack_name" : "vanilla",
+  "texture_data" : {
+    "f5_fp" : {
+      "textures" : "textures/items/f5_fp"
+    },
+    "f5_reset" : {
+      "textures" : "textures/items/f5_reset"
+    },
+    "f5_tp" : {
+      "textures" : "textures/items/f5_tp"
+    },
+    "f5_tpf" : {
+      "textures" : "textures/items/f5_tpf"
+    }
+  }
+}
